@@ -1,0 +1,5 @@
+Trigger off of dynamoDB event
+
+Run a lambda function that does all the stuff from a script from S3
+                ---> upload new file to S3
+                

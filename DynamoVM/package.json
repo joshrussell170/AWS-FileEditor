@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.145.0",
+    "@aws-sdk/lib-storage": "^3.145.0",
+    "aws-sdk": "^2.1192.0",
+    "fs": "^0.0.1-security",
+    "node-modules": "^1.0.1"
+  }
+}

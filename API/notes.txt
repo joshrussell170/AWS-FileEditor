@@ -1,0 +1,5 @@
+Lambda functions: Add string to DynamoDB 
+                        -> handler for this function
+
+Backend of the API Gateway: roots and paths
+
